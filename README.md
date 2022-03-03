@@ -3,7 +3,10 @@
 ## Overview
   - The purpose of this analysis to bring to light three key differences in weather between the months June and December.
 
-## To Weather Out the Storm 
+## To Weather Out the Storm (Please refer to pictures provided)
+
+June (
+December (https://github.com/KammRamm675/surfs_up/blob/main/December%20Temps.PNG)
 
 ### Temperature Counts
   - The first difference that can be seen is the difference temperature counts collected.  The month of June collected 1700 temperatures while the month of December collected 183 less at 1517 temperatures. 
