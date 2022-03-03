@@ -5,7 +5,7 @@
 
 ## To Weather Out the Storm (Please refer to pictures provided)
 
-June (
+June (https://github.com/KammRamm675/surfs_up/blob/main/June%20Temps.PNG)
 December (https://github.com/KammRamm675/surfs_up/blob/main/December%20Temps.PNG)
 
 ### Temperature Counts
